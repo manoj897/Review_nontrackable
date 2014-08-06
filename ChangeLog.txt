@@ -1,5 +1,1 @@
-  - Just to check the sync with reviewboard
-(#*(**&^*Y(* 
-
-
-Checking with Gerrit integration with git
+Now checking the sync up of reviewboard
